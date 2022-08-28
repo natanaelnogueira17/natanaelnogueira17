@@ -2,7 +2,7 @@
 
 💻 Eu estou estudando Desenvolvimento FullStack
 
-💻 HTML5 | CSS3 | JavaScript | ReactJS | NodeJS | PHP | MySQL |
+💻 HTML5 | CSS3 | JavaScript | ReactJS | React Native | NodeJS | PHP | Java | Hibernate | PrimeFaces | MySQL | Postgree
 
 <div align="center">
   <a href="https://github.com/natanaelnogueira17">
