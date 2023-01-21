@@ -1,8 +1,10 @@
 # Olá, me chamo Natanael Nogueira 
 
-💻 Eu estou estudando Desenvolvimento FullStack
+💻Atualmente sou desenvolvedor junior na empresa Pericia Foresnse do Estado do Ceara;
 
-💻 HTML5 | CSS3 | JavaScript | ReactJS | React Native | NodeJS | PHP | Java | Hibernate | PrimeFaces | MySQL | Postgree
+💻 HTML5 | CSS3 | JavaScript | ReactJS  | NodeJS | Java | JSF | Hibernate | PrimeFaces | SQL | noSQL
+
+
 
 <div align="center">
   <a href="https://github.com/natanaelnogueira17">
