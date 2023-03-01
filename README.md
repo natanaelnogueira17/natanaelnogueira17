@@ -1,6 +1,6 @@
 # Olá, me chamo Natanael Nogueira 
 
-💻Atualmente sou desenvolvedor junior na empresa Pericia Foresnse do Estado do Ceara;
+💻Atualmente sou desenvolvedor Pleno na empresa Prefeitura de Fortaleza - Secretaria Municipal da Educação ;
 
 💻 HTML5 | CSS3 | JavaScript | ReactJS  | NodeJS | Java | JSF | Hibernate | PrimeFaces | SQL | noSQL
 
