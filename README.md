@@ -2,7 +2,7 @@
 
 💻Atualmente sou desenvolvedor Pleno na empresa Prefeitura de Fortaleza - Secretaria Municipal da Educação ;
 
-💻 HTML5 | CSS3 | JavaScript | ReactJS  | NodeJS | Java | JSF | Hibernate | PrimeFaces | SQL | noSQL
+💻 HTML5 | CSS3 | JavaScript | ReactJS  | NodeJS | Java | Spring Boot | JSF | Hibernate | PL SQL | Jaspersoft
 
 
 
