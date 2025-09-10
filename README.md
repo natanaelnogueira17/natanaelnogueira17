@@ -1,8 +1,8 @@
 # Olá, me chamo Natanael Nogueira 
 
-💻Atualmente sou desenvolvedor Pleno na empresa Prefeitura de Fortaleza - Secretaria Municipal da Educação ;
+💻Atualmente sou desenvolvedor Pleno na empresa AMcom -  sustentação ;
 
-💻 HTML5 | CSS3 | JavaScript | ReactJS  | NodeJS | Java | Spring Boot | JSF | Hibernate | PL SQL | Jaspersoft
+💻 HTML5 | CSS3 | JavaScript | ReactJS  | NodeJS | Java | Spring Boot | JSF | Hibernate | PL SQL | Jaspersoft | Linux | 
 
 
 
