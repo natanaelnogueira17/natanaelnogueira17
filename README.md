@@ -1,8 +1,8 @@
 # Olá, me chamo Natanael Nogueira 
 
-💻Atualmente sou desenvolvedor Pleno na empresa AMcom -  sustentação ;
+💻Atualmente sou desenvolvedor Pleno na empresa AMcom  -  sustentação de sistemas;
 
-💻 HTML5 | CSS3 | JavaScript | ReactJS  | NodeJS | Java | Spring Boot | JSF | Hibernate | PL SQL | Jaspersoft | Linux | 
+💻 HTML5 | CSS3 | JavaScript | ReactJS | Java | Spring Boot | JSF | Hibernate | PL SQL | Jaspersoft | Linux 
 
 
 
@@ -17,7 +17,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="node-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg">
